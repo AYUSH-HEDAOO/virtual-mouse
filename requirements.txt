@@ -1,6 +1,6 @@
 numpy
 opencv-python
 opencv-contrib-python
-# autopy
-# mediapipe
+autopy
+mediapipe
 pyautogui
